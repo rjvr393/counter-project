@@ -1,0 +1,13 @@
+:root
+{
+  text-align: center;
+  margin-top: 200px;
+  border: 10px solid rgb(219, 72, 9);
+  width: 50%;
+  margin-left: 300px;
+  background-color: rgb(28, 28, 28);
+}
+h2
+{
+  color: burlywood;
+}
